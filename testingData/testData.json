@@ -1,0 +1,73 @@
+{
+    "testDataList": {
+        "login": [
+            {
+                "Username": "admin",
+                "Password": "password123",
+                "PageTitle": "Vite + React + TS"
+            }
+        ],
+        "testcase1": [
+            {
+                "app-type": "Web Application",
+                "task": "Implement user authentication",
+                "column": "To Do",
+                "tags": [
+                    "Feature",
+                    "High Priority"
+                ]
+            }
+        ],
+        "testcase2": [
+            {
+                "app-type": "Web Application",
+                "task": "Fix navigation bug",
+                "column": "To Do",
+                "tags": [
+                    "Bug"
+                ]
+            }
+        ],
+        "testcase3": [
+            {
+                "app-type": "Web Application",
+                "task": "Design system updates",
+                "column": "In Progress",
+                "tags": [
+                    "Design"
+                ]
+            }
+        ],
+        "testcase4": [
+            {
+                "app-type": "Mobile Application",
+                "task": "Push notification system",
+                "column": "To Do",
+                "tags": [
+                    "Feature"
+                ]
+            }
+        ],
+        "testcase5": [
+            {
+                "app-type": "Mobile Application",
+                "task": "Offline mode",
+                "column": "In Progress",
+                "tags": [
+                    "Feature",
+                    "High Priority"
+                ]
+            }
+        ],
+        "testcase6": [
+            {
+                "app-type": "Mobile Application",
+                "task": "App icon design",
+                "column": "Done",
+                "tags": [
+                    "Design"
+                ]
+            }
+        ]
+    }
+}
